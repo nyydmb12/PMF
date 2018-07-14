@@ -1,0 +1,741 @@
+﻿[24-Dec-2017 19:08:37 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:08:37 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 19:08:37 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:08:37 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:12:45 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:12:45 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 129
+[24-Dec-2017 19:12:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:12:45 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:12:45 America/New_York] PHP Notice:  Undefined index: PostAction in /home/perpwgzc/public_html/Controller.php on line 107
+[24-Dec-2017 19:12:45 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 129
+[24-Dec-2017 19:12:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:13:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:13:23 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 129
+[24-Dec-2017 19:13:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:13:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:13:23 America/New_York] PHP Notice:  Undefined index: PostAction in /home/perpwgzc/public_html/Controller.php on line 107
+[24-Dec-2017 19:13:23 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 129
+[24-Dec-2017 19:13:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:27:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:27:11 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 129
+[24-Dec-2017 19:27:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:27:12 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:27:12 America/New_York] PHP Notice:  Undefined index: PostAction in /home/perpwgzc/public_html/Controller.php on line 107
+[24-Dec-2017 19:27:12 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 129
+[24-Dec-2017 19:27:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:29:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:29:23 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 129
+[24-Dec-2017 19:29:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:29:24 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:29:24 America/New_York] PHP Notice:  Undefined index: PostAction in /home/perpwgzc/public_html/Controller.php on line 107
+[24-Dec-2017 19:29:24 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 129
+[24-Dec-2017 19:29:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:30:26 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:30:26 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 129
+[24-Dec-2017 19:30:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:30:26 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:34:18 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:34:18 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 132
+[24-Dec-2017 19:34:18 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:34:18 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:35:27 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:35:27 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 19:35:27 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:35:27 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:47:44 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:47:44 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 19:47:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:47:44 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:49:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 19:49:04 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 19:49:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 19:49:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:18:54 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:18:54 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 21:18:54 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:18:54 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:20:58 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:20:58 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 21:20:58 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:20:58 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:32:05 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:32:05 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 21:32:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:34:14 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:34:14 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 21:34:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:34:14 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:34:28 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:34:28 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 21:34:28 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:35:25 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:35:25 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 21:35:25 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:35:25 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:36:53 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:36:53 America/New_York] PHP Notice:  Undefined index: PostAction in /home/perpwgzc/public_html/Controller.php on line 107
+[24-Dec-2017 21:36:53 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 21:36:53 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:37:05 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:37:05 America/New_York] PHP Notice:  Undefined index: PostAction in /home/perpwgzc/public_html/Controller.php on line 107
+[24-Dec-2017 21:37:05 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 133
+[24-Dec-2017 21:37:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:38:01 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:38:03 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:43:10 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:48:42 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:48:42 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 21:48:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:48:42 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:48:42 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 107
+[24-Dec-2017 21:48:42 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 21:48:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:49:00 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:49:00 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 21:49:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:49:00 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:49:10 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:49:10 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 21:49:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:49:25 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:49:25 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 21:49:25 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:49:26 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:56:14 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:56:14 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 21:56:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 21:56:14 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:56:21 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 21:56:21 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 21:56:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 22:02:38 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 22:02:38 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 22:02:38 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 22:02:38 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 22:04:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 22:04:23 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 22:04:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 22:04:24 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 22:10:21 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 69
+[24-Dec-2017 22:10:21 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 125
+[24-Dec-2017 22:10:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 61
+[24-Dec-2017 22:24:15 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:32:43 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:33:26 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:33:33 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:38:28 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:38:28 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:38:28 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:38:43 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:38:43 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:38:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:38:43 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:40:02 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:40:02 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:40:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:40:10 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:40:10 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:40:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:40:10 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:43:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:43:23 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:43:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:43:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:43:45 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:43:45 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:43:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:44:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:44:13 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:44:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:48:01 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:48:01 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:48:01 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:48:21 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:48:21 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:48:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:51:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:51:04 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:51:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:51:05 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:53:58 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:53:58 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:53:58 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:57:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 22:57:11 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 22:57:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 22:57:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:06:57 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:06:57 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:06:57 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:08:49 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:08:49 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:08:49 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:08:50 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:12:05 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:12:05 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:12:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:12:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:12:13 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:12:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:12:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:14:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:14:08 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:14:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:16:18 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:16:18 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:16:18 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:23:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:23:29 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:23:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:24:10 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:24:10 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:24:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:24:19 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:24:19 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:24:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:24:19 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:32:16 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:32:16 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:32:16 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:32:16 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:35:52 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[24-Dec-2017 23:35:52 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[24-Dec-2017 23:35:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[24-Dec-2017 23:35:52 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 18:07:20 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 18:07:20 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 18:07:20 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 18:07:20 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 18:07:51 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 18:07:51 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 18:07:51 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 18:07:51 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:00:41 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:00:41 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:00:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:00:42 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:00:42 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:00:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:01:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:01:04 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:01:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:01:06 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:01:06 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:01:06 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:01:10 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:01:10 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:01:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:01:12 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:01:12 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:01:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:06:00 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:23:15 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:23:15 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:23:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:23:16 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:23:32 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:23:32 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:23:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:23:32 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:28:40 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:28:40 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:28:40 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:28:40 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:29:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:29:04 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:29:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:29:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:30:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:30:11 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:30:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:30:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:31:09 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:31:09 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:31:09 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:31:09 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:31:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:31:29 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:31:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:31:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:32:45 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:32:45 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:32:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:32:45 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:33:27 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:33:27 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:33:27 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:33:27 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:35:37 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:35:37 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:35:37 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:35:37 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:38:09 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:38:09 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:38:09 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:38:09 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:39:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:39:13 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:39:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:39:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:40:22 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:40:22 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:40:22 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:40:22 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:48:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:48:13 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:48:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:48:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:48:42 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:48:42 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:48:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:48:42 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:57:44 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 19:57:44 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 19:57:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 19:57:44 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:02:12 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:02:12 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:02:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:02:12 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:02:33 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:02:33 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:02:33 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:02:34 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:02:52 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:02:52 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:02:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:02:52 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:03:24 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:03:24 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:03:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:03:24 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:11:27 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:11:27 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:11:27 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:11:27 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:12:00 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:12:00 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:12:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:12:00 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:12:44 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:12:44 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:12:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:12:45 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:13:41 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:13:41 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:13:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:13:41 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:14:03 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:14:03 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:14:03 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:14:03 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:14:55 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:14:55 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:14:55 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:14:55 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:15:39 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:15:39 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:15:39 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:15:39 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:16:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:16:13 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:16:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:16:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:16:53 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:16:53 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:16:53 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:16:54 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:21:46 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:21:46 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:21:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:21:46 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:22:00 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:22:00 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:22:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:22:01 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:22:24 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:22:24 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:22:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:22:24 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:23:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:23:23 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:23:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:23:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:23:50 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:23:50 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:23:50 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:23:50 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:24:09 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:24:09 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:24:09 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:24:10 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:24:46 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:24:46 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:24:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:24:46 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:25:40 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:25:40 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:25:40 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:25:40 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:26:19 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:26:19 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:26:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:26:19 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:29:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:29:04 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:29:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:29:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:30:01 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:30:01 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:30:01 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:30:01 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:30:12 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:30:12 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:30:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:30:12 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:31:31 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:31:31 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:31:31 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:31:31 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:34:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:34:13 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:34:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:34:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:37:35 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:37:35 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:37:35 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:37:36 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:38:36 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:38:36 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:38:36 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:38:36 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:38:56 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:38:56 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:38:56 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:38:56 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:40:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:40:13 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:40:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:40:13 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:42:55 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:42:55 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:42:55 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:42:55 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:45:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:45:29 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:45:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:45:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:46:12 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:46:12 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 20:46:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 20:46:12 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 20:47:28 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:30 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:30 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:30 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:25:32 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:32 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:25:34 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:34 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:34 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:25:37 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:37 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:37 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:25:39 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:39 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:39 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:25:41 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:41 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:25:41 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:41 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:25:42 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:42 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:25:46 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:46 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:25:49 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:25:49 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:25:49 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:26:14 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:26:14 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:26:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:26:15 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:26:15 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:26:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:26:40 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:26:40 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:26:40 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[25-Dec-2017 21:26:42 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[25-Dec-2017 21:26:42 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[25-Dec-2017 21:26:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 09:54:03 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 09:54:03 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 09:54:03 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 09:54:03 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:42:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:42:08 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 17:42:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 17:42:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:42:26 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:42:26 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 17:42:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 17:42:26 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:45:07 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:45:07 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 17:45:07 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 17:45:07 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:55:49 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:55:49 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 17:55:49 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 17:55:49 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:56:57 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 17:56:57 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 17:56:57 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 17:56:57 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 18:25:52 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 18:25:52 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 18:25:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 18:25:52 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 18:31:40 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 18:31:40 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 18:31:40 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 18:31:40 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 18:31:57 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 18:31:57 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 18:31:57 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 18:31:57 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 18:32:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 18:32:29 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 18:32:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 18:32:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:43:39 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:43:39 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 19:43:39 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 19:43:39 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:43:57 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:43:57 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 19:43:57 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 19:43:57 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:44:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:44:08 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 19:44:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 19:44:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:45:41 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:45:41 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 19:45:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 19:45:41 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:49:14 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:49:14 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 19:49:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 19:49:14 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:49:33 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:49:33 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 19:49:33 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 19:49:33 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:52:06 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 19:52:06 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 19:52:06 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 19:52:06 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:02:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:02:08 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 20:02:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 20:02:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:02:33 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:02:33 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 20:02:33 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 20:02:33 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:07:32 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:07:32 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 20:07:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 20:07:32 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:08:10 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:08:10 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 20:08:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 20:08:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:13:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:13:29 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 20:13:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 20:13:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:13:38 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:13:38 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 20:13:38 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 20:13:38 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:28:50 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:28:50 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 20:28:50 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 20:28:50 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:29:29 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:29:29 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 20:29:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 20:29:30 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:53:42 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 20:58:25 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 21:00:46 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 21:00:46 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 126
+[27-Dec-2017 21:00:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 62
+[27-Dec-2017 21:00:47 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[27-Dec-2017 21:12:30 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 70
+[28-Dec-2017 18:33:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:33:11 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:33:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:33:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:35:36 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:35:36 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:35:36 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:35:37 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:36:47 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:36:47 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:36:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:36:47 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:38:20 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:38:20 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:38:20 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:38:20 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:38:47 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:38:47 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:38:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:38:47 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:39:59 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:39:59 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:39:59 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:40:00 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:42:53 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:42:53 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:42:53 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:42:53 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:46:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:46:04 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:46:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:46:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:46:06 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:46:17 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:46:17 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:46:17 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:46:17 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:47:47 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:47:47 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:47:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:47:47 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:48:19 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:48:19 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:48:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:48:19 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:48:50 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:48:50 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:48:50 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:48:50 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:49:04 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:49:04 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 159
+[28-Dec-2017 18:49:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 18:49:05 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 18:49:05 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 148
+[28-Dec-2017 18:51:46 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 97
+[28-Dec-2017 18:51:46 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 18:51:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 89
+[28-Dec-2017 18:51:46 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 97
+[28-Dec-2017 18:52:02 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 97
+[28-Dec-2017 18:52:02 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 18:52:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 89
+[28-Dec-2017 18:52:02 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 97
+[28-Dec-2017 18:52:02 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 149
+[28-Dec-2017 18:54:32 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 97
+[28-Dec-2017 18:54:32 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 18:54:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 89
+[28-Dec-2017 18:54:32 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 97
+[28-Dec-2017 18:54:32 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 149
+[28-Dec-2017 19:10:50 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 97
+[28-Dec-2017 19:10:50 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:10:50 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 89
+[28-Dec-2017 19:10:50 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 97
+[28-Dec-2017 19:10:50 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 149
+[28-Dec-2017 19:15:07 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:15:07 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:15:07 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:15:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:15:27 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:15:27 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:15:27 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:15:27 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:15:43 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:15:43 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:15:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:15:43 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:15:43 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 148
+[28-Dec-2017 19:17:51 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:17:51 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:17:51 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:17:51 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:17:51 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 148
+[28-Dec-2017 19:18:48 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:18:48 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:18:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:18:48 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:18:48 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 148
+[28-Dec-2017 19:19:24 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:19:24 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:19:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:19:24 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:19:24 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 148
+[28-Dec-2017 19:19:30 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:19:30 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:19:30 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:19:30 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:19:30 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 148
+[28-Dec-2017 19:22:01 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:22:01 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:22:01 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:22:01 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:22:15 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:22:15 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:22:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:22:15 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:22:15 America/New_York] PHP Notice:  Undefined index: Participant in /home/perpwgzc/public_html/Controller.php on line 148
+[28-Dec-2017 19:23:47 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:23:47 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:23:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:23:47 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:24:03 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:24:03 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:24:03 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:24:03 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:27:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:27:11 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 160
+[28-Dec-2017 19:27:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 88
+[28-Dec-2017 19:27:11 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 96
+[28-Dec-2017 19:27:11 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/perpwgzc/public_html/Controller.php on line 67
+[28-Dec-2017 19:29:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:29:08 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 164
+[28-Dec-2017 19:29:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 92
+[28-Dec-2017 19:29:08 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:29:08 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/perpwgzc/public_html/Controller.php on line 69
+[28-Dec-2017 19:29:49 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:29:49 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 164
+[28-Dec-2017 19:29:49 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 92
+[28-Dec-2017 19:29:49 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:30:16 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:30:16 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 164
+[28-Dec-2017 19:30:16 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 92
+[28-Dec-2017 19:30:16 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:30:44 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:30:44 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 164
+[28-Dec-2017 19:30:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 92
+[28-Dec-2017 19:30:44 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:30:44 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/perpwgzc/public_html/Controller.php on line 69
+[28-Dec-2017 19:44:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:44:23 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 164
+[28-Dec-2017 19:44:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 92
+[28-Dec-2017 19:44:23 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 100
+[28-Dec-2017 19:44:23 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/perpwgzc/public_html/Controller.php on line 69
+[28-Dec-2017 19:45:07 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 102
+[28-Dec-2017 19:45:07 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 166
+[28-Dec-2017 19:45:07 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 94
+[28-Dec-2017 19:45:07 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 102
+[28-Dec-2017 19:45:22 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 102
+[28-Dec-2017 19:45:22 America/New_York] PHP Notice:  Undefined variable: result in /home/perpwgzc/public_html/Controller.php on line 166
+[28-Dec-2017 19:45:22 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/perpwgzc/public_html/Controller.php on line 94
+[28-Dec-2017 19:45:22 America/New_York] PHP Notice:  Undefined index: Action in /home/perpwgzc/public_html/Controller.php on line 102
+[28-Dec-2017 19:45:22 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/perpwgzc/public_html/Controller.php on line 71
